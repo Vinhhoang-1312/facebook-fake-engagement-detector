@@ -1,0 +1,4 @@
+"""Explainable Facebook Page engagement anomaly detection."""
+
+__version__ = "0.1.0"
+

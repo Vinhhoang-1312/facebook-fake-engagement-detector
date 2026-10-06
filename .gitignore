@@ -1,0 +1,16 @@
+.env
+.venv/
+.superpowers/
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+reports/
+dist/
+build/
+*.egg-info/
